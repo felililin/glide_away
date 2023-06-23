@@ -1,0 +1,30 @@
+#loginWrapper {
+    width: 50%;
+    margin-left: 25%;
+    display: flex;
+}
+
+#loginPenguin {
+    width: 50%;
+}
+
+#loginForm {
+    width: 50%;
+    margin: 16px;
+    padding-top: 16px;
+}
+
+#register {
+    width: 100%;
+    margin-top: 8px;
+    text-align: center;
+    font-size: small;
+}
+
+#errorMessage {
+    width: 100%;
+    margin-bottom: 8px;
+    text-align: center;
+    font-size: small;
+    color: #EB455F;
+}

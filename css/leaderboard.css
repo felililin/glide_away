@@ -1,0 +1,13 @@
+.gameLeaderboard h3 {
+    text-align: center;
+}
+
+.gameLeaderboard {
+    width: 32%;
+}
+
+#leaderboardContainer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}

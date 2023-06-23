@@ -1,0 +1,11 @@
+#homeButton {
+    top: 65vh;
+    position: absolute;
+    left: 43vw;
+}
+
+#replayButton {
+    top: 65vh;
+    position: absolute;
+    left: 52vw;
+}

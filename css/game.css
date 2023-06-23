@@ -1,0 +1,13 @@
+#canvas {
+    width: 100%;
+    background-color: black;
+    height: 100%;
+}
+
+.bodyContainer {
+    height: 80vh;
+}
+
+#gameContainer {
+    height: 100%;
+}

@@ -1,0 +1,38 @@
+#challengeContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+#challengeContainer div {
+    width: 48%;
+}
+
+#challengeContainer h2 {
+    text-align: center;
+}
+
+#challengeButton {
+    margin-top: -60px;
+}
+
+#challengeFormContainer {
+    width: 70%;
+    margin-left: 15%;
+}
+
+#challengeFormContainer form {
+    width: 50%;
+    margin-left: 25%;
+}
+
+#sendChallenge {
+    width: 100%;
+}
+
+#errorMessage {
+    width: 100%;
+    margin-bottom: 16px;
+    text-align: center;
+    font-size: small;
+    color: #EB455F;
+}

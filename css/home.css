@@ -1,0 +1,30 @@
+#gameSelection {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+
+.gameCard {
+    height: 185px;
+    width: 32%;
+    margin-bottom: 8px;
+    cursor: pointer;
+    background: transparent;
+}
+
+.gameCard img {
+    width: 100%;
+    cursor: pointer;
+    object-fit: cover;
+    height: 100%;
+}
+
+.gameCard img:hover {
+    box-shadow: 1px 2px 6px 2px #1A000050;
+}
+
+.gameCard:hover {
+    width: 34%;
+    height: 195px;
+}
